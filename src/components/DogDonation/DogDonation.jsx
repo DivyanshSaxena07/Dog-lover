@@ -242,7 +242,7 @@ export default function DogDonation() {
       {/* FOOTER */}
       <footer className="footer">
         <p>Together, we can save more lives 🐾</p>
-        <small>© 2025 Dog Rescue & Care Foundation</small>
+        <small>© 2025 Your Support Care</small>
       </footer>
     </>
   );
